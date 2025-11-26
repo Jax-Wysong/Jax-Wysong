@@ -33,5 +33,7 @@ C • Python • PETSc • HPC clusters • FEM • Numerical Methods • MATLAB
 
 ## Contact
 Email: jax.wysong@jacks.sdstate.edu
-CV: 
+
+CV: [CV (PDF)](./JaxWysong_CV.pdf)
+
 
