@@ -23,7 +23,7 @@ In the past, I worked on
 
 ## Featured Repository
 - **Parallel Spacetime FEM Solver (1+1 and 2+1)** – PETSc-based nonlinear PDE solver  
-  - **Ghost Field Numerical Experiments** – code used in current manuscript
+  - **Ghost Field Numerical Experiments** – code used to investigate how different initial conditions and potentials effect a ghost system of 2 scalar fields
   - **Linear Heat and Wave Eqn Problems** - linear problems used to test and understand numerical and parallel implementation
   - **Practice Problems in Numerical Relativity** - currently working to reproduce some results from literature to obtain a better grasp on NR and extend the space-time FEM to more regimes
 
