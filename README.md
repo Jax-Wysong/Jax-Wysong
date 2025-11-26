@@ -36,6 +36,6 @@ Email: jax.wysong@jacks.sdstate.edu
 
 CV: [CV (PDF)](./JaxWysong_CV.pdf)
 
-LinkedIn: [LinkedIn](www.linkedin.com/in/jax-wysong-008051221)
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/jax-wysong-008051221)
 
 
