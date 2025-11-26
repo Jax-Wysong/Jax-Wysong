@@ -31,9 +31,11 @@ In the past, I worked on
 ## Technical
 C • Python • PETSc • HPC clusters • FEM • Numerical Methods • MATLAB • LaTeX
 
-## Contact
+## Contact/Links
 Email: jax.wysong@jacks.sdstate.edu
 
 CV: [CV (PDF)](./JaxWysong_CV.pdf)
+
+LinkedIn: [LinkedIn](www.linkedin.com/in/jax-wysong-008051221)
 
 
