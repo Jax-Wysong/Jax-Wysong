@@ -1,6 +1,6 @@
 # Hi, I'm Jax Wysong
 
-I am a MS student in Mathematics at South Dakota State University working on 
+I have B.S. degrees in Physics and Math, and I am currently a MS student in Mathematics at South Dakota State University. I am working on 
 high-performance computing, numerical PDEs, and computational physics. I hope to be in a PhD program starting Fall 2026 where I can continue studying physics!
 
 My current research focuses on:
