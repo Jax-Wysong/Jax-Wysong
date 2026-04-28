@@ -9,8 +9,8 @@ My current research focuses on:
 - Time decomposition restricted additive Schwarz preconditioning
 
 My future work entails:
-- Developing a physics-aware preconditioner compatible with the nonlinear ghost system that will allow for computationally cheaper solves, making (3+1) simulations more feasible
-- Using this framework to guide undergraduates interested in computational physics to pursue other projects
+- Developing a parallel in time additive Schwarz preconditioner for hyperbolic PDEs, which will allow for computationally cheaper solves, making (3+1) simulations more feasible
+- Using this spacetime FEM framework to guide undergraduates interested in computational physics to pursue other projects
 
 In the past, I worked on
 - Plasma physics & magnetic reconnection (LANL Computational Physics Workshop)
