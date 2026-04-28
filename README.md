@@ -25,6 +25,7 @@ In the past, I worked on
 - **[Parallel Spacetime FEM Solver (1+1 and 2+1)](https://github.com/Jax-Wysong/Space-Time-FEM-public)** – PETSc-based nonlinear PDE solver  
   - **Ghost Field Numerical Experiments** – code used to investigate how different initial conditions and potentials effect a ghost system of 2 scalar fields
   - **Linear Heat and Wave Eqn Problems** - linear problems used to test and understand numerical and parallel implementation
+  - **Time-Parallel Preconditioning** - investigations into time domain decompositon restricted additive Schwarz preconditioning for the wave equation
 
 ## Technical
 C • Python • PETSc • HPC clusters • FEM • Numerical Methods • MATLAB • LaTeX
