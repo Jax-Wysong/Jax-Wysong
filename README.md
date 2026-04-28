@@ -1,12 +1,12 @@
 # Hi, I'm Jax Wysong
 
-I have B.S. degrees in Physics and Math, and I am currently a MS student in Mathematics at South Dakota State University. I am working on 
-high-performance computing, numerical PDEs, and computational physics. I hope to be in a PhD program starting Fall 2026 where I can continue studying physics!
+I have B.S. degrees in Physics and Math, and I am currently a MS student in Mathematics at South Dakota State University. I am working on numerical PDEs, time-parallel preconditioning techniques for hyperbolic PDEs, and computational physics. I will be starting in Michigan State University's Computational Mathematics, Science, and Engineering PhD program in Fall 2026!
 
 My current research focuses on:
 - Space-time finite element method implementation
 - Nonlinear PDE systems with ghost fields, (1+1) and (2+1)
 - Parallel numerical solvers using PETSc (DMDA, SNES)
+- Time decomposition restricted additive Schwarz preconditioning
 
 My future work entails:
 - Developing a physics-aware preconditioner compatible with the nonlinear ghost system that will allow for computationally cheaper solves, making (3+1) simulations more feasible
@@ -23,7 +23,7 @@ In the past, I worked on
 
 ## Featured Repository
 - **[Parallel Spacetime FEM Solver (1+1 and 2+1)](https://github.com/Jax-Wysong/Space-Time-FEM-public)** – PETSc-based nonlinear PDE solver  
-  - **Ghost Field Numerical Experiments** – code used to investigate how different initial conditions and potentials effect a ghost system of 2 scalar fields
+  - **Ghost Field Numerical Experiments** – code used to investigate how different initial conditions and potentials effect a nonlinear ghost system of 2 scalar fields
   - **Linear Heat and Wave Eqn Problems** - linear problems used to test and understand numerical and parallel implementation
   - **Time-Parallel Preconditioning** - investigations into time domain decompositon restricted additive Schwarz preconditioning for the wave equation
 
