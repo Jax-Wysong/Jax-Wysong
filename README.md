@@ -17,7 +17,7 @@ In the past, I worked on
 - Magnetic materials and Heusler alloys (undergraduate experimental materials science)
 
 ## Publications
-- Numerical Investigations of Stable Dynamics in the Presence of Ghosts (coming soon!)
+- Numerical Investigations of Stable Dynamics in the Presence of Ghosts ([preprint](https://arxiv.org/abs/2604.25635))
 - Multiple publications on Heusler alloys
 *(See full list of publications and presentations in my CV)*
 
