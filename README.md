@@ -9,7 +9,7 @@ My current work focuses on:
     - Solving the MHD equations requires that the $\nabla \cdot \mathbf{B} = 0$ constraint be numerically satisfied
         - One method of enforcing this is called constrained transport, which involves updating the magnetic fields according to the EMF defined on grid corners
     - Some studies indicate that CT is a more robust scheme when compared to other methods handling the divergence-free constraint
-2. Numerical investigations of ghost field dynamics ([arxiv](https://arxiv.org/abs/2604.25635)
+2. Numerical investigations of ghost field dynamics ([arxiv](https://arxiv.org/abs/2604.25635))
     - Klein-Gordon equation with a ghost field and nonlinear potential
     - Spacetime FEM for discretization
     - PETSc (DMDA, SNES) for parallelism and nonlinear solvers
