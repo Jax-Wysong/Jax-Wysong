@@ -20,7 +20,7 @@ My current work focuses on:
     - Implement a time domain-decomposition additive Schwarz scheme to precondition GMRES
         - Find that a physics-informed-Krylov interface-condition provides a consistent speed-up in GMRES convergence (manuscript draft in progress)
 4. Mentoring REU student at SDSU
-     - Spacetime FEM numerical method development to solve the inviscid Burger's equations
+     - Spacetime FEM numerical method development to solve the inviscid Burger's equation
 
 
 In the past, I worked on  
