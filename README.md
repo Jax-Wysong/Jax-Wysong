@@ -17,7 +17,7 @@ My current work focuses on:
 3. Development/study of time-parallel additive Schwarz preconditioners
     - Scalar advection equation and wave equation discretized via the spacetime FEM
     - PETSC (DMDA, KSP, PC) for parallelism, linear solvers, and user-defined preconditioning implementation
-    - Implement a time-domain decomposition additive Schwarz scheme to precondition GMRES
+    - Implement a time domain-decomposition additive Schwarz scheme to precondition GMRES
         - Find that a physics-informed-Krylov interface-condition provides a consistent speed-up in GMRES convergence (manuscript draft in progress)
 4. Mentoring REU student at SDSU
      - Spacetime FEM numerical method development to solve the inviscid Burger's equations
