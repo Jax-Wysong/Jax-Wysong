@@ -2,7 +2,7 @@
 
 I am currently pursuing a PhD at Michigan State University in computational math, science, and engineering (CMSE) and physics. I have degrees in Physics (BS) and Math (MS) from South Dakota State University (SDSU). At MSU, I work under advisors Brian O'Shea and Andrew Christlieb in the HighZ group ([HighZ-Center](https://highz-fic.github.io/)), where I am developing high-order finite volume methods for magnetohydrodynamics modeling.
 
-# My current work focuses on:
+## My current work focuses on:
 1. Implementing constrained transport (CT) into AthenaPK ([athenaPK](https://github.com/parthenon-hpc-lab/athenapk))
     - AthenaPK is a performance-portable, adaptive mesh refinement code used to develop (magneto)hydrodynamics simulations for astrophysical applications
         - Based on Athena++, Parthenon, and Kokkos
@@ -23,7 +23,7 @@ I am currently pursuing a PhD at Michigan State University in computational math
      - Spacetime FEM numerical method development to solve the inviscid Burger's equation
 
 
-# In the past, I worked on 
+## In the past, I worked on 
 - Plasma physics & magnetic reconnection (LANL Computational Physics Workshop)
 - Magnetic materials and Heusler alloys (undergraduate experimental materials science)
 
