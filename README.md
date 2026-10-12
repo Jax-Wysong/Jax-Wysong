@@ -3,12 +3,13 @@
 I am currently pursuing a PhD at Michigan State University in computational math, science, and engineering (CMSE) and physics. I have degrees in Physics (BS) and Math (MS) from South Dakota State University (SDSU). At MSU, I work under advisors Brian O'Shea and Andrew Christlieb in the HighZ group ([HighZ-Center](https://highz-fic.github.io/)), where I am developing high-order finite volume methods for magnetohydrodynamics modeling.
 
 ## My current work focuses on:
-1. Implementing constrained transport (CT) into AthenaPK ([athenaPK](https://github.com/parthenon-hpc-lab/athenapk))
+1. Implementing high-order constrained transport (CT) into AthenaPK ([athenaPK](https://github.com/parthenon-hpc-lab/athenapk)) to investigate ILES MHD-turbulence simulations
     - AthenaPK is a performance-portable, adaptive mesh refinement code used to develop (magneto)hydrodynamics simulations for astrophysical applications
         - Based on Athena++, Parthenon, and Kokkos
     - Solving the MHD equations requires that the $\nabla \cdot \mathbf{B} = 0$ constraint be numerically satisfied
-        - One method of enforcing this is called constrained transport, which involves updating the magnetic fields according to the EMF defined on grid corners
-    - Some studies indicate that CT is a more robust scheme when compared to other methods handling the divergence-free constraint
+        - One method of enforcing this is called constrained transport, which involves updating the magnetic fields according to the EMF defined on grid corners (2D)/edges (3D)
+        - Some studies indicate that CT is a more robust scheme when compared to other methods handling the divergence-free constraint
+    - We are interested in investigating how high-order (currently up to 8th-order) FV affects simulation results of MHD turbulence and how high-order FV compares with high-order FD schemes
 2. Numerical investigations of ghost field dynamics ([arxiv](https://arxiv.org/abs/2604.25635))
     - Klein-Gordon equation with a ghost field and nonlinear potential
     - Spacetime FEM for discretization
